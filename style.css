@@ -2,15 +2,16 @@
 
 :root {
     --bg-color: #fff;
-    --main-color: #007bff ;
+    --main-color: #e97eff ;
     --main-hover-color: rgb(236, 130, 240);
     --second-color:#1a1a1a;
     --third-color:#2c2c2c;;
     --nav-text-color: #98999b;
     --nav-text-hover-color: #fffce4;
-    --heading-color:#2f55d4  ;
-    --small-text-color: #a59b9b;
-    --very-small-text-color: #c47979;
+    --heading-color:#e57dfa  ;
+    --small-text-color: lightpink
+    
+    --very-small-text-color: hotpink;
 }
 
 /* random */
